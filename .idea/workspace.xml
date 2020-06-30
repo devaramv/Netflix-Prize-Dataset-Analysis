@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc94e82c-edfb-4b32-a6e7-4f8ea60a9d72" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem_Statement.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RubiconTest_NetflixDatasetAnalysis_Config.properties" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,12 +33,16 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1b5TBwt2lOb7mAux4p892jG058b" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -82,10 +85,23 @@
       <updated>1587920822117</updated>
       <workItem from="1587920824743" duration="16789000" />
     </task>
+    <task id="LOCAL-00001" summary="Updated file names">
+      <created>1593556158884</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593556158884</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Updated file names" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated file names" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-74" y="-777" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1587923053842">
@@ -104,10 +120,10 @@
       <screen x="-444" y="-1024" width="1280" height="984" />
     </state>
     <state x="-12" y="-673" width="501" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728/836.-1024.1280.984/-444.-1024.1280.984@-444.-1024.1280.984" timestamp="1587923845459" />
-    <state x="321" y="8" key="CommitChangelistDialog2" timestamp="1593556124250">
+    <state x="321" y="8" key="CommitChangelistDialog2" timestamp="1593556158150">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="321" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1593556124250" />
+    <state x="321" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1593556158150" />
     <state width="1237" height="387" key="GridCell.Tab.0.bottom" timestamp="1587940390221">
       <screen x="836" y="-1024" width="1280" height="984" />
     </state>
@@ -132,5 +148,9 @@
       <screen x="836" y="-1024" width="1280" height="984" />
     </state>
     <state x="956" y="-958" key="SettingsEditor/0.0.1366.728/836.-1024.1280.984/-444.-1024.1280.984@836.-1024.1280.984" timestamp="1587930418837" />
+    <state x="362" y="146" key="Vcs.Push.Dialog.v2" timestamp="1593556192210">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="362" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1593556192210" />
   </component>
 </project>
