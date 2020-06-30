@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc94e82c-edfb-4b32-a6e7-4f8ea60a9d72" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Scala Object" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1b5TBwt2lOb7mAux4p892jG058b" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="dataprocessing" />
+      <recent name="properties" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MovieRatingAnalysis" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="dataprocessing.MovieRatingAnalysis" />
+      <module name="Rubicon_Takehome_Project.main" />
+      <option name="PROGRAM_PARAMETERS" value="C:\\Users\\VDEVARA8\\RubiconTest\\Implementation\\TestDataset\\configFile\\RubiconTest_NetflixDatasetAnalysis_Config.properties" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MovieRatingAnalysis" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc94e82c-edfb-4b32-a6e7-4f8ea60a9d72" name="Default Changelist" comment="" />
+      <created>1587920822117</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587920822117</updated>
+      <workItem from="1587920824743" duration="16789000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-74" y="-777" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1587923053842">
+      <screen x="-444" y="-1024" width="1280" height="984" />
+    </state>
+    <state x="-74" y="-777" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728/836.-1024.1280.984/-444.-1024.1280.984@-444.-1024.1280.984" timestamp="1587923053842" />
+    <state x="-350" y="-877" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587923152748">
+      <screen x="-444" y="-1024" width="1280" height="984" />
+    </state>
+    <state x="-350" y="-877" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/836.-1024.1280.984/-444.-1024.1280.984@-444.-1024.1280.984" timestamp="1587923152748" />
+    <state x="-45" y="-752" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1587923804235">
+      <screen x="-444" y="-1024" width="1280" height="984" />
+    </state>
+    <state x="-45" y="-752" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1366.728/836.-1024.1280.984/-444.-1024.1280.984@-444.-1024.1280.984" timestamp="1587923804235" />
+    <state x="-12" y="-673" width="501" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1587923845459">
+      <screen x="-444" y="-1024" width="1280" height="984" />
+    </state>
+    <state x="-12" y="-673" width="501" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728/836.-1024.1280.984/-444.-1024.1280.984@-444.-1024.1280.984" timestamp="1587923845459" />
+    <state width="1237" height="387" key="GridCell.Tab.0.bottom" timestamp="1587940390221">
+      <screen x="836" y="-1024" width="1280" height="984" />
+    </state>
+    <state width="1237" height="214" key="GridCell.Tab.0.bottom/0.0.1366.728/836.-1024.1280.984/-444.-1024.1280.984@-444.-1024.1280.984" timestamp="1587923909862" />
+    <state width="1237" height="387" key="GridCell.Tab.0.bottom/0.0.1366.728/836.-1024.1280.984/-444.-1024.1280.984@836.-1024.1280.984" timestamp="1587940390221" />
+    <state width="1237" height="387" key="GridCell.Tab.0.center" timestamp="1587940390221">
+      <screen x="836" y="-1024" width="1280" height="984" />
+    </state>
+    <state width="1237" height="214" key="GridCell.Tab.0.center/0.0.1366.728/836.-1024.1280.984/-444.-1024.1280.984@-444.-1024.1280.984" timestamp="1587923909862" />
+    <state width="1237" height="387" key="GridCell.Tab.0.center/0.0.1366.728/836.-1024.1280.984/-444.-1024.1280.984@836.-1024.1280.984" timestamp="1587940390221" />
+    <state width="1237" height="387" key="GridCell.Tab.0.left" timestamp="1587940390221">
+      <screen x="836" y="-1024" width="1280" height="984" />
+    </state>
+    <state width="1237" height="214" key="GridCell.Tab.0.left/0.0.1366.728/836.-1024.1280.984/-444.-1024.1280.984@-444.-1024.1280.984" timestamp="1587923909862" />
+    <state width="1237" height="387" key="GridCell.Tab.0.left/0.0.1366.728/836.-1024.1280.984/-444.-1024.1280.984@836.-1024.1280.984" timestamp="1587940390221" />
+    <state width="1237" height="387" key="GridCell.Tab.0.right" timestamp="1587940390221">
+      <screen x="836" y="-1024" width="1280" height="984" />
+    </state>
+    <state width="1237" height="214" key="GridCell.Tab.0.right/0.0.1366.728/836.-1024.1280.984/-444.-1024.1280.984@-444.-1024.1280.984" timestamp="1587923909862" />
+    <state width="1237" height="387" key="GridCell.Tab.0.right/0.0.1366.728/836.-1024.1280.984/-444.-1024.1280.984@836.-1024.1280.984" timestamp="1587940390221" />
+    <state x="956" y="-958" key="SettingsEditor" timestamp="1587930418837">
+      <screen x="836" y="-1024" width="1280" height="984" />
+    </state>
+    <state x="956" y="-958" key="SettingsEditor/0.0.1366.728/836.-1024.1280.984/-444.-1024.1280.984@836.-1024.1280.984" timestamp="1587930418837" />
+  </component>
+</project>
